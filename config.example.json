@@ -1,0 +1,7 @@
+{
+  "OPENAI_API_KEY": "",
+  "OPENAI_API_BASE": "",
+  "LANGCHAIN_TRACING_V2": "false",
+  "LANGCHAIN_API_KEY": "",
+  "LANGCHAIN_PROJECT": "last-mile-exception-agent"
+}
